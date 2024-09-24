@@ -1,0 +1,59 @@
+body {
+    padding: 0 450px 0 450px;
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.614);
+}
+
+#hh {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+input {
+    height: 70px;
+}
+
+#but1 {
+    margin: 25px 25px 40px 25px;
+    width: 50px;
+    background-color: green;
+    border-color: green;
+    border-radius: 10px;
+}
+#but2 {
+    margin: 25px 25px 40px 25px;
+    width: 50px;
+    background-color: red;
+    border-color: red;
+    border-radius: 10px;
+}
+#but3 {
+    margin: 25px 25px 40px 25px;
+    width: 50px;
+    background-color: blue;
+    border-color: blue;
+    border-radius: 10px;
+}
+#but4 {
+    margin: 25px 25px 40px 25px;
+    width: 50px;
+    background-color: rgb(225, 110, 220);
+    border-color: rgb(225, 110, 220);
+    border-radius: 10px;
+}
+
+#Calc {
+    margin-bottom: 40px;
+    background-color: grey;
+    border-color: grey;
+    border-radius: 10px;
+}
+
+.Res {
+    background-color: rgba(0, 0, 0, 0.805);
+    padding: 15px 0 5px 0;
+    color: whitesmoke;
+}
