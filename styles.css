@@ -1,23 +1,25 @@
 body {
-    padding: 0 450px 0 450px;
     background-color: bisque;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
     font-size: 35px;
     color: rgba(0, 0, 0, 0.614);
+    max-width: 50%;
+    margin: 0 auto;
 }
 
 #hh {
     margin-top: 100px;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 input {
     height: 70px;
+    font-size: 500px;
 }
 
 #but1 {
-    margin: 25px 25px 40px 25px;
+    margin: 40px 25px 40px 0px;
     width: 50px;
     background-color: green;
     border-color: green;
